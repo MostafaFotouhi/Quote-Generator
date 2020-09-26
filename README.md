@@ -7,3 +7,4 @@ Watch the project live  -->  (https://mostafafotouhi.github.io/Quote-Generator/)
 
 Address api used  --->  (https://type.fit/api/quotes)
 
+You can also share selected quotes on your Twitter page :)
