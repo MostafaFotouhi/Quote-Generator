@@ -12,7 +12,7 @@ function newQuote() {
   if (!quote.author) {
     quoteText.textContent = "Unknown";
   } else {
-    authorText.textContent = quote.author;
+    authorText.textContent = `"${quote.author}"`;
   }
   if (quote.text.length > 120) {
     quoteText.classList.add("long-quote");
